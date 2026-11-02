@@ -17,7 +17,7 @@ psycopg[binary]
 # ===============================
 httpx==0.28.1
 socksio==1.0.0
-requests==2.32.3
+requests==2.33.0
 aiofiles~=23.2.1
 cryptography==46.0.3
 

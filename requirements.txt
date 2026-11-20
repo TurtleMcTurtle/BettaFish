@@ -32,7 +32,7 @@ regex>=2023.8.8
 jieba==0.42.1
 
 # ===== 数据库 =====
-pymysql==1.1.0
+pymysql==1.1.1
 aiomysql==0.2.0
 aiosqlite==0.21.0
 motor>=3.3.0
